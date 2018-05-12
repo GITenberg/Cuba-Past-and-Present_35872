@@ -1,0 +1,30 @@
+_repo: Cuba-Past-and-Present_35872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davey, Richard
+    aliases:
+    - Davey, Richard Patrick Boyle
+    - Davey, R. (Richard)
+    birthdate: 1848
+    gutenberg_agent_id: '37950'
+    url: http://www.gutenberg.org/2009/agents/37950
+description: ''
+gutenberg_issued: '2011-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35872'
+  lccn: '01021426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1751'
+- !lcsh 'Cuba -- History'
+- !lcsh 'Cuba -- Description and travel'
+title: Cuba Past and Present
+url: http://www.gutenberg.org/ebooks/35872
